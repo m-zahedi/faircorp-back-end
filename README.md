@@ -3,7 +3,9 @@
 
 #REST services exposed by a Spring application developped in Java
 
-#refrences to develope this project
+#refrences to develope this project:
+
+
 https://dev-mind.fr/
 https://docs.gradle.org
 https://spring.io/guides/gs/rest-service/
